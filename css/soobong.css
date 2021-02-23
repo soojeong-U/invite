@@ -27,15 +27,15 @@ body { font-family: 'SDSamliphopangche_Basic'; -webkit-font-smoothing: antialias
 
 
 
-.main_dress { font-size: 20px; font-weight:lighter; border-radius: 20px; line-height: 30px;background-color:#6a8c95; margin: 0 45px; padding: 5px 0; color:#fff;}
+.main_dress { font-size: 20px; font-weight:lighter; border-radius: 20px; line-height: 30px;background-color:#6a8c95; margin: 0 5%; padding: 5px 0; color:#fff;}
 
-.main_text1 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 120px; padding: 5px 0;}
-.main_text2 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 70px; padding: 5px 0; }
-.main_text3 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 125px; padding: 5px 0; }
-.main_text4 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 110px; padding: 5px 0; }
-.main_text5 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 130px; padding: 5px 0; }
-.main_text6 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 130px; padding: 5px 0; }
-.main_text7 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 150px; padding: 5px 0; }
+.main_text1 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 10%; padding: 5px 0;}
+.main_text2 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 5%; padding: 5px 0; }
+.main_text3 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 15%; padding: 5px 0; }
+.main_text4 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 15%; padding: 5px 0; }
+.main_text5 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 20%; padding: 5px 0; }
+.main_text6 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 20%; padding: 5px 0; }
+.main_text7 { font-size: 25px; font-weight:normal; border-radius: 15px; background-color:#fdbb4a; margin: 0 30%; padding: 5px 0; }
 
 .main_box p { font-size: 20px; line-height: 30px;}
 .main_box h5 { font-size: 20px; line-height: 30px; font-weight:lighter;}
