@@ -13,7 +13,7 @@ div, ul, li { background-size: cover; background-position: center center;}
 
 button:hover { cursor: pointer;}
 
-body { font-family: 'SDSamliphopangche_Basic'; -webkit-font-smoothing: antialiased; color: #835b27; font-weight: lighter; text-align: center;}
+body { font-family: 'SDSamliphopangche_Basic'; -webkit-font-smoothing: antialiased; color: #835b27; font-weight: lighter; text-align: center; width:100%;}
 
 .title { width: 100%; height: 650px; background-image:url(../img/1.jpg); background-size: 100% 500px; background-color: #f3e2ce; background-repeat: no-repeat; background-position: top;}
 .title_1 { padding-top: 300px; font-size: 70px; font-weight: normal;}
